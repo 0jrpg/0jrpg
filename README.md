@@ -1,80 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:063b25,100:2ea043&height=190&section=header&text=Jo%C3%A3o%20Ricardo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Tech%20Enthusiast&descAlignY=60&animation=fadeIn" width="100%" alt="Animated green header">
+<img src="assets/header.svg" alt="0jrpg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=3FB950&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+ideas+into+projects;Learning+by+creating;One+project+at+a+time." alt="Animated introduction">
+<a href="https://github.com/0jrpg"><img src="https://img.shields.io/badge/GitHub-0jrpg-0b1020?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="GitHub"/></a>
+<a href="https://github.com/alphalanguage/alf"><img src="https://img.shields.io/badge/Alpha-.alf-05261c?style=for-the-badge&logoColor=6ee7b7" alt="Alpha Language"/></a>
+<a href="https://educaturdi.vercel.app"><img src="https://img.shields.io/badge/EducaTurdi-online-0d2552?style=for-the-badge&logo=vercel&logoColor=fde68a" alt="EducaTurdi"/></a>
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=0jrpg&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views">
-<img src="https://img.shields.io/github/followers/0jrpg?style=for-the-badge&logo=github&label=Followers&color=238636" alt="GitHub followers">
+<img src="assets/terminal.svg" alt="terminal" width="100%"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## About me
+## ⭐ em destaque
 
-Hey! I'm **João Ricardo**, a Brazilian developer who enjoys creating websites, experimenting with code, and turning ideas into useful projects.
+<div align="center">
 
-- 🇧🇷 From Brazil
-- 💻 Interested in web development and creative projects
-- 🌱 Always learning and testing new ideas
-- 🎯 Focused on building, improving, and sharing projects
+<a href="https://github.com/EducaTurdi/EDUTRD"><img src="assets/card-educaturdi.svg" alt="EducaTurdi, plataforma escolar" width="100%"/></a>
 
-```js
-const joao = {
-  username: "0jrpg",
-  country: "Brazil",
-  interests: ["Web Development", "Technology", "Creative Projects"],
-  motto: "Learn, build, improve, repeat."
-};
+<br>
+
+<a href="https://github.com/alphalanguage/alf"><img src="assets/card-alf.svg" alt="Alpha Language, linguagem de programação em português" width="100%"/></a>
+
+</div>
+
+<details>
+<summary><b>🎓 EducaTurdi: o que é</b></summary>
+<br>
+
+Plataforma escolar moderna e integrada, feita em **Next.js + TypeScript**, com **Supabase (PostgreSQL)** no banco e deploy na **Vercel**. Tem identidade visual própria, microanimações e transições suaves, pra fugir do jeito dos sistemas escolares tradicionais. O foco é dar mais organização, praticidade, modernidade e conexão pra comunidade escolar.
+
+📧 Quer um sistema assim pra sua escola? **EducaTurdi@gmail.com**
+
+</details>
+
+<details>
+<summary><b>🇧🇷 Alpha Language: o que é</b></summary>
+<br>
+
+Uma linguagem brasileira que transforma arquivos `.alf` em aplicações web completas. Você escreve HTML, JS e Python num só código, em português, e o `tradutor.py` gera o `.html` pra você.
+
+```
+<janela> #B0C4DE {login}
+*usuario "Usuário"
+*senha "Senha"
+@entrar
+&mensagem "Bem-vindo ao Alpha"
+</janela>
 ```
 
-## Projects
+**Como rodar:** instale a dependência uma vez (`py -m pip install requests`), abra o `tradutor.py`, informe o nome do `.alf` e depois o nome do `.html` de saída (sem a extensão). O `dicionario.md` explica cada comando.
 
-| Project | Description | Links |
-|---|---|---|
-| 🎓 **EducaTurdi** | Educational web platform. | [Repository](https://github.com/EducaTurdi/EDUTRD) · [Website](https://educaturdi.vercel.app/) |
-| 🌐 **EducaTurdi Language** | Language and educational technology project. | [Repository](https://github.com/EducaTurdi/Language) |
-| 🎨 **Anapretta** | Personal web-development project. | [Repository](https://github.com/0jrpg/Anapretta) |
-| 🧪 **DownloadForMe** | Experimental/personal project. | [Repository](https://github.com/0jrpg/downloadforme) |
+</details>
 
-## Tech & tools
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,supabase,git,github,vercel,vscode&theme=dark&perline=6" alt="Development technologies">
-</div>
+## 🧭 com o que eu programo
 
-## GitHub stats
+Clica em cada bloco pra abrir 👇
 
-<div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=0jrpg&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jrpg&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Most used languages">
+<details>
+<summary><b>🌐 Aplicações web com Next.js + TypeScript</b></summary>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0jrpg&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="80%" alt="Contribution streak">
+
+Meu dia a dia é **Next.js (App Router)** com **TypeScript**: páginas, rotas, componentes e tipos. É a base do EducaTurdi, do site de arquivos e do blog névoa.
+
+</details>
+
+<details>
+<summary><b>🗄️ Banco de dados com Supabase + PostgreSQL</b></summary>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0jrpg&bg_color=0d1117&color=c9d1d9&line=238636&point=3fb950&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
-</div>
 
-## Contribution snake
+No EducaTurdi uso **Supabase** em cima de **PostgreSQL** pros dados da plataforma escolar. Em outros projetos prefiro nem ter banco: o próprio GitHub guarda o conteúdo.
+
+</details>
+
+<details>
+<summary><b>🔤 Linguagem de programação própria</b></summary>
+<br>
+
+A **Alpha** nasceu pra programar em português, sem acento fora de aspas e com sintaxe curta (`*campo`, `@botão`, `&mensagem`). Um tradutor em **Python** converte o `.alf` em HTML + JS prontos pra abrir no navegador.
+
+</details>
+
+<details>
+<summary><b>🪪 Páginas de bio com links</b></summary>
+<br>
+
+O **biohtml** é uma bio com links acessíveis, feita em HTML puro e programada por mim. Dá pra personalizar uma pra qualquer pessoa.
+
+</details>
+
+<details>
+<summary><b>🗂️ GitHub como backend</b></summary>
+<br>
+
+No **joaoricardo**, qualquer arquivo é servido por URL direta e fica guardado num repositório público; a Vercel só roda o código do site. Sites inteiros (HTML + CSS + JS) funcionam com a estrutura de pastas preservada, cada arquivo com o `Content-Type` certo. O que não dá: `.php` e outras linguagens de servidor não executam, aparecem como texto.
+
+</details>
+
+<details>
+<summary><b>🪟 Interfaces "liquid glass"</b></summary>
+<br>
+
+Painéis translúcidos, esferas de luz em movimento e paleta que muda conforme o conteúdo. Foi a linguagem visual do blog **névoa**, onde cada post é um `.json` lido direto do GitHub.
+
+</details>
+
+<details>
+<summary><b>🔐 Login sem sistema de usuários</b></summary>
+<br>
+
+No blog, quem pode escrever é decidido **pelo próprio GitHub**: admin ou colaborador com permissão de escrita no repo. Zero senha própria, zero cadastro.
+
+</details>
+
+<details>
+<summary><b>🚀 Deploy na Vercel</b></summary>
+<br>
+
+Build automático a cada push, URL pública e nenhuma infraestrutura pra manter.
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🧰 stack
+
+<img src="assets/stack.svg" width="100%" alt="Tecnologias que eu uso"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🚧 mais projetos
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/0jrpg/biohtml"><img src="assets/card-biohtml.svg" alt="biohtml, bio com links" width="100%"/></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/0jrpg/joaoricardo"><img src="assets/card-files.svg" alt="joaoricardo, site de arquivos" width="100%"/></a>
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/0jrpg/0jrpg/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake">
+<sub>também por aqui: <a href="https://github.com/0jrpg/blog">névoa</a>, um blog liquid glass em Next.js (<a href="https://blognevoa.vercel.app">blognevoa.vercel.app</a>)</sub>
 </div>
 
-## Currently
+### 🔭 como o joaoricardo funciona por dentro
 
-- 🔭 Building and improving personal projects
-- 🌱 Learning through practice
-- 💡 Exploring new ways to make useful things with code
+```mermaid
+flowchart LR
+    A([👤 visitante]) -->|abre uma URL| B[Next.js<br/>App Router]
+    B -->|busca o arquivo| C[(📁 repositório<br/>público no GitHub)]
+    C -->|devolve com o<br/>Content-Type certo| B
+    B --> A
+    D([💻 eu]) -->|git push| C
+    B -.->|roda na| E[▲ Vercel]
+```
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📊 números
 
 <div align="center">
 
-### Thanks for stopping by! 💚
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0jrpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=c4b5fd&text_color=e2e8f0" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jrpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&text_color=e2e8f0" alt="Linguagens"/>
 
-[![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0jrpg?tab=repositories)
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,55:063b25,100:050505&height=100&section=footer" width="100%" alt="Animated green footer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0jrpg/0jrpg/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0jrpg/0jrpg/output/github-snake.svg"/>
+  <img alt="cobrinha comendo meus commits" src="https://raw.githubusercontent.com/0jrpg/0jrpg/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="feito com vidro, névoa e alguns posts"/>
