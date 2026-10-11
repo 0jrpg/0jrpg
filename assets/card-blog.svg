@@ -1,0 +1,18 @@
+<svg width="440" height="250" viewBox="0 0 440 250" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1230"/><stop offset="1" stop-color="#241250"/></linearGradient>
+<filter id="b"><feGaussianBlur stdDeviation="16"/></filter><clipPath id="c"><rect width="440" height="250" rx="20"/></clipPath></defs>
+<style>.h{font:800 26px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#fff}.d{font:13px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#cbd5e1}.k{font:600 11px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#e2e8f0}.u{font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#7dd3fc}
+.a{animation:f1 7s ease-in-out infinite alternate}.b{animation:f2 9s ease-in-out infinite alternate}.c2{animation:f3 6s ease-in-out infinite alternate}
+@keyframes f1{to{transform:translate(230px,30px)}}@keyframes f2{to{transform:translate(-200px,-40px)}}@keyframes f3{to{transform:translate(-120px,40px)}}</style>
+<g clip-path="url(#c)"><rect width="440" height="250" fill="url(#bg)"/>
+<g filter="url(#b)"><circle class="a" cx="70" cy="60" r="46" fill="#38bdf8" opacity=".7"/><circle class="b" cx="380" cy="150" r="54" fill="#a855f7" opacity=".65"/><circle class="c2" cx="260" cy="220" r="38" fill="#34d399" opacity=".5"/></g>
+<rect x="18" y="18" width="404" height="214" rx="18" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".22"/>
+<text x="38" y="62" class="h">névoa</text>
+<text x="38" y="86" class="d">blog liquid glass pra qualquer assunto.</text>
+<text x="38" y="106" class="d">Posts públicos, só-com-link ou privados.</text>
+<text x="38" y="126" class="d">Editor rico, temas por post, login via GitHub.</text>
+<g transform="translate(38,146)">
+<rect width="82" height="24" rx="12" fill="#7dd3fc" fill-opacity=".15" stroke="#7dd3fc" stroke-opacity=".6"/><text x="41" y="16" text-anchor="middle" class="k">Next.js</text>
+<g transform="translate(92,0)"><rect width="92" height="24" rx="12" fill="#c4b5fd" fill-opacity=".15" stroke="#c4b5fd" stroke-opacity=".6"/><text x="46" y="16" text-anchor="middle" class="k">TypeScript</text></g>
+<g transform="translate(194,0)"><rect width="70" height="24" rx="12" fill="#6ee7b7" fill-opacity=".15" stroke="#6ee7b7" stroke-opacity=".6"/><text x="35" y="16" text-anchor="middle" class="k">Vercel</text></g></g>
+<text x="38" y="204" class="u">blognevoa.vercel.app ↗</text></g></svg>

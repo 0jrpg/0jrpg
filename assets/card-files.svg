@@ -1,0 +1,23 @@
+<svg width="440" height="250" viewBox="0 0 440 250" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06201f"/><stop offset="1" stop-color="#0f1a3d"/></linearGradient><clipPath id="c"><rect width="440" height="250" rx="20"/></clipPath></defs>
+<style>.h{font:800 24px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#fff}.d{font:13px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#cbd5e1}.k{font:600 11px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#e2e8f0}.u{font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#6ee7b7}.fl{font:700 10px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#06201f}
+.f1{animation:mv 4s linear infinite}.f2{animation:mv 4s linear infinite 1.33s}.f3{animation:mv 4s linear infinite 2.66s}
+@keyframes mv{0%{transform:translateX(0);opacity:0}12%{opacity:1}85%{opacity:1}100%{transform:translateX(150px);opacity:0}}
+.pu{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.4}}</style>
+<g clip-path="url(#c)"><rect width="440" height="250" fill="url(#bg)"/>
+<rect x="18" y="18" width="404" height="214" rx="18" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".2"/>
+<text x="38" y="58" class="h">joaoricardo</text>
+<text x="38" y="80" class="d">site de arquivos: qualquer arquivo servido por URL.</text>
+<text x="38" y="98" class="d">O GitHub guarda tudo, a Vercel só roda o código.</text>
+<g transform="translate(38,118)">
+<rect x="0" y="4" width="60" height="40" rx="8" fill="#6ee7b7" fill-opacity=".15" stroke="#6ee7b7" stroke-opacity=".6"/><text x="30" y="29" text-anchor="middle" class="k">repo</text>
+<line x1="70" y1="24" x2="212" y2="24" stroke="#6ee7b7" stroke-opacity=".4" stroke-dasharray="4 5"/>
+<g transform="translate(70,0)"><rect class="f1" x="0" y="12" width="28" height="24" rx="4" fill="#6ee7b7"/><text class="f1 fl" x="4" y="28">.html</text></g>
+<g transform="translate(70,0)"><rect class="f2" x="0" y="12" width="28" height="24" rx="4" fill="#7dd3fc"/><text class="f2 fl" x="6" y="28">.png</text></g>
+<g transform="translate(70,0)"><rect class="f3" x="0" y="12" width="28" height="24" rx="4" fill="#c4b5fd"/><text class="f3 fl" x="6" y="28">.pdf</text></g>
+<g transform="translate(222,0)"><rect x="0" y="4" width="144" height="40" rx="20" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".35"/><circle cx="22" cy="24" r="6" fill="#6ee7b7" class="pu"/><text x="38" y="28" class="k">/qualquer/url</text></g></g>
+<g transform="translate(38,184)">
+<rect width="82" height="24" rx="12" fill="#7dd3fc" fill-opacity=".15" stroke="#7dd3fc" stroke-opacity=".6"/><text x="41" y="16" text-anchor="middle" class="k">Next.js</text>
+<g transform="translate(92,0)"><rect width="86" height="24" rx="12" fill="#c4b5fd" fill-opacity=".15" stroke="#c4b5fd" stroke-opacity=".6"/><text x="43" y="16" text-anchor="middle" class="k">App Router</text></g>
+<g transform="translate(188,0)"><rect width="84" height="24" rx="12" fill="#fdba74" fill-opacity=".15" stroke="#fdba74" stroke-opacity=".6"/><text x="42" y="16" text-anchor="middle" class="k">GitHub API</text></g></g>
+<text x="38" y="224" class="u" style="display:none">.</text></g></svg>
