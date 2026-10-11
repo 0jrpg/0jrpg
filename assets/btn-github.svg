@@ -1,0 +1,7 @@
+<svg width="200" height="52" viewBox="0 0 200 52" xmlns="http://www.w3.org/2000/svg"><rect id="bgd" width="200" height="52" rx="26" fill="#0b1020"/>
+<defs><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="c"><rect x="2" y="2" width="196" height="48" rx="24"/></clipPath></defs>
+<style>.t{font:700 16px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#f8fafc;letter-spacing:.5px}.a{animation:sw 3.2s linear infinite}@keyframes sw{from{transform:translateX(-80px) skewX(-20deg)}to{transform:translateX(260px) skewX(-20deg)}}
+.p{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.35}}</style>
+<rect x="2" y="2" width="196" height="48" rx="24" fill="#7dd3fc" fill-opacity=".14" stroke="#7dd3fc" stroke-opacity=".8" stroke-width="1.5"/>
+<g clip-path="url(#c)"><rect class="a" x="0" y="0" width="60" height="52" fill="url(#sh)"/></g>
+<circle class="p" cx="30" cy="26" r="5" fill="#7dd3fc"/><text x="108" y="32" text-anchor="middle" class="t">GitHub</text></svg>

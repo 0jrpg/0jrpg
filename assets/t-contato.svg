@@ -1,0 +1,15 @@
+<svg width="900" height="84" viewBox="0 0 900 84" xmlns="http://www.w3.org/2000/svg"><rect id="bgd" width="900" height="84" rx="16" fill="#0b1020"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7dd3fc"/><stop offset=".5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#6ee7b7"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="ln"><rect x="0" y="66" width="900" height="3"/></clipPath></defs>
+<style>.n{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#7dd3fc;letter-spacing:3px}.k{font:600 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;fill:#94a3b8;letter-spacing:4px}.t{font:800 34px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;letter-spacing:-1px}
+.bar{animation:bar 3s ease-in-out infinite}@keyframes bar{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}
+.sw{animation:sw 4s linear infinite}@keyframes sw{from{transform:translateX(-300px)}to{transform:translateX(900px)}}
+.dot{animation:dt 2s ease-in-out infinite}@keyframes dt{50%{opacity:.3}}</style>
+<rect class="bar" x="4" y="14" width="5" height="44" rx="2.5" fill="url(#g)" style="transform-origin:6px 36px"/>
+<text x="24" y="28" class="n">08</text><text x="56" y="28" class="k">VAMOS CONVERSAR</text>
+<text x="24" y="58" class="t" fill="url(#g)">contato</text>
+<rect x="0" y="66" width="900" height="2" fill="#fff" fill-opacity=".1"/>
+<g clip-path="url(#ln)"><rect class="sw" x="0" y="66" width="260" height="3" fill="url(#sh)"/></g>
+<circle class="dot" cx="888" cy="30" r="3" fill="#6ee7b7"/><circle class="dot" cx="876" cy="30" r="3" fill="#7dd3fc" style="animation-delay:.4s"/><circle class="dot" cx="864" cy="30" r="3" fill="#c4b5fd" style="animation-delay:.8s"/>
+</svg>

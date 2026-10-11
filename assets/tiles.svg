@@ -1,0 +1,33 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg"><rect id="bgd" width="900" height="230" rx="16" fill="#0b1020"/><defs><linearGradient id="tg0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7dd3fc" stop-opacity=".14"/><stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/></linearGradient><linearGradient id="tg1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6ee7b7" stop-opacity=".14"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></linearGradient><linearGradient id="tg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c4b5fd" stop-opacity=".14"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/></linearGradient><linearGradient id="tg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdba74" stop-opacity=".14"/><stop offset="1" stop-color="#fdba74" stop-opacity="0"/></linearGradient></defs>
+<style>.th{font:800 17px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#f8fafc}.td{font:13px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#cbd5e1}.ic{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace;font-weight:700}
+.ld{animation:ld 2.4s ease-in-out infinite}@keyframes ld{0%{width:8px}60%,100%{width:56px}}
+.cur2{animation:cu 3s ease-in-out infinite}@keyframes cu{0%,100%{transform:translate(0,0)}50%{transform:translate(-26px,-12px)}}
+.bl{animation:bk 1s steps(1) infinite}@keyframes bk{50%{opacity:0}}
+.d1{animation:dd 2.4s ease-in-out infinite}.d2{animation:dd 2.4s ease-in-out infinite .3s}.d3{animation:dd 2.4s ease-in-out infinite .6s}@keyframes dd{50%{transform:translateY(-4px)}}
+.rk{animation:rk 2.2s ease-in-out infinite}@keyframes rk{0%,100%{transform:translateY(6px)}50%{transform:translateY(-8px)}}
+.fire{animation:fr .25s ease-in-out infinite alternate}@keyframes fr{to{transform:scaleY(1.5);opacity:.7}}</style>
+<g transform="translate(10,0)"><rect x="0" y="0" width="205" height="230" rx="20" fill="#fff" fill-opacity=".05" stroke="#7dd3fc" stroke-opacity=".45"/>
+<rect x="0" y="0" width="205" height="230" rx="20" fill="url(#tg0)"/>
+<g transform="translate(102,78)"><rect x="-38" y="-30" width="76" height="58" rx="8" fill="#0b1020" stroke="#7dd3fc" stroke-width="2"/><line x1="-38" y1="-16" x2="38" y2="-16" stroke="#7dd3fc" stroke-opacity=".6"/>
+<circle cx="-30" cy="-23" r="2" fill="#ff5f57"/><circle cx="-23" cy="-23" r="2" fill="#febc2e"/><circle cx="-16" cy="-23" r="2" fill="#28c840"/>
+<rect class="ld" x="-30" y="-8" width="40" height="6" rx="3" fill="#7dd3fc"/><rect x="-30" y="4" width="60" height="5" rx="2.5" fill="#fff" fill-opacity=".25"/><rect x="-30" y="14" width="44" height="5" rx="2.5" fill="#fff" fill-opacity=".25"/>
+<path class="cur2" d="M18 6 l0 16 l5 -4 l4 8 l3 -1.5 l-4 -8 l6 -1z" fill="#fff"/></g>
+<text x="102" y="152" text-anchor="middle" class="th">Web apps</text>
+<text x="102" y="176" text-anchor="middle" class="td">Next.js + TypeScript,</text><text x="102" y="194" text-anchor="middle" class="td">do front ao deploy</text></g><g transform="translate(235,0)"><rect x="0" y="0" width="205" height="230" rx="20" fill="#fff" fill-opacity=".05" stroke="#6ee7b7" stroke-opacity=".45"/>
+<rect x="0" y="0" width="205" height="230" rx="20" fill="url(#tg1)"/>
+<g transform="translate(102,78)"><text x="-40" y="14" class="ic" fill="#6ee7b7" style="font-size:44px">&lt;</text><text x="40" y="14" text-anchor="end" class="ic" fill="#6ee7b7" style="font-size:44px">&gt;</text>
+<text x="0" y="12" text-anchor="middle" class="ic bl" fill="#fff" style="font-size:36px">|</text><text x="0" y="-12" text-anchor="middle" class="ic" fill="#a7f3d0" style="font-size:13px">.alf</text></g>
+<text x="102" y="152" text-anchor="middle" class="th">Linguagem Alpha</text>
+<text x="102" y="176" text-anchor="middle" class="td">programar em português,</text><text x="102" y="194" text-anchor="middle" class="td">gerando HTML e JS</text></g><g transform="translate(460,0)"><rect x="0" y="0" width="205" height="230" rx="20" fill="#fff" fill-opacity=".05" stroke="#c4b5fd" stroke-opacity=".45"/>
+<rect x="0" y="0" width="205" height="230" rx="20" fill="url(#tg2)"/>
+<g transform="translate(102,78)"><g class="d1"><ellipse cx="0" cy="-26" rx="32" ry="10" fill="#c4b5fd"/></g>
+<path d="M-32 -26 v18 a32 10 0 0 0 64 0 v-18" fill="#8b5cf6" fill-opacity=".7"/><ellipse class="d2" cx="0" cy="-8" rx="32" ry="10" fill="#a78bfa"/>
+<path d="M-32 -8 v18 a32 10 0 0 0 64 0 v-18" fill="#7c3aed" fill-opacity=".7"/><ellipse class="d3" cx="0" cy="10" rx="32" ry="10" fill="#c4b5fd"/>
+<path d="M-32 10 v16 a32 10 0 0 0 64 0 v-16" fill="#6d28d9" fill-opacity=".7"/></g>
+<text x="102" y="152" text-anchor="middle" class="th">Dados</text>
+<text x="102" y="176" text-anchor="middle" class="td">Supabase + PostgreSQL</text><text x="102" y="194" text-anchor="middle" class="td">ou o próprio GitHub</text></g><g transform="translate(685,0)"><rect x="0" y="0" width="205" height="230" rx="20" fill="#fff" fill-opacity=".05" stroke="#fdba74" stroke-opacity=".45"/>
+<rect x="0" y="0" width="205" height="230" rx="20" fill="url(#tg3)"/>
+<g transform="translate(102,78)"><g class="rk"><path d="M0 -38 q16 14 14 42 h-28 q-2 -28 14 -42z" fill="#f8fafc"/><circle cx="0" cy="-8" r="6" fill="#38bdf8"/><path d="M-14 4 l-12 14 l12 -3z M14 4 l12 14 l-12 -3z" fill="#fb923c"/>
+<path class="fire" d="M-7 6 q7 26 14 0z" fill="#fbbf24"/></g></g>
+<text x="102" y="152" text-anchor="middle" class="th">Deploy</text>
+<text x="102" y="176" text-anchor="middle" class="td">Vercel, build a cada</text><text x="102" y="194" text-anchor="middle" class="td">push, sempre no ar</text></g></svg>
